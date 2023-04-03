@@ -1,0 +1,9 @@
+name: WherePlugin # the plugins name as it should appear in the plugin list /pl
+version: 1.0 # the plugin's version
+author: Beast
+main: org.example.WherePlugin
+api-version: # the version of the API you want to use, required starting with 1.13
+
+commands:
+  whereami:
+  whereis:
